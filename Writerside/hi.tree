@@ -7,4 +7,7 @@
                  start-page="Default-topic.md">
 
     <toc-element topic="Default-topic.md"/>
+    <toc-element topic="Leistungsverbesserung.md">
+        <toc-element topic="Embeddium.md"/>
+    </toc-element>
 </instance-profile>
