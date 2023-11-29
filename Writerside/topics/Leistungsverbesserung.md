@@ -5,14 +5,14 @@ Führt meistens zu mehr FPS.
 
 ## Übersicht
 
-| Modname                                | Client | Server | Wiki                                                |
-|----------------------------------------|--------|--------|-----------------------------------------------------|
-| Embeddium                              | ✓      |        | [Link](https://github.com/embeddedt/embeddium/wiki) |
-| Oculus                                 | ✓      |        |                                                     |
-| RyoamicLights                          | ✓      |        |                                                     |
-| Clumps                                 |        | ✓      |                                                     |
-| FerriteCore                            | ✓      | ✓      |                                                     |
-| EntityCulling                          | ✓      |        |                                                     |
-| AI Improvements                        |        | ✓      |                                                     |
-| Server Performance - Smooth Chunk Save |        | ✓      |                                                     |
-| Get It Together, Drops!                |        | ✓      |                                                     |
+| Modname                                             | Client | Server | Wiki                                                |
+|-----------------------------------------------------|--------|--------|-----------------------------------------------------|
+| [Embeddium](Embeddium.md)                           | ✓      |        | [Link](https://github.com/embeddedt/embeddium/wiki) |
+| [Oculus](Oculus.md)                                 | ✓      |        |                                                     |
+| [RyoamicLights](RyoamicLights.md)                   | ✓      |        |                                                     |
+| [Clumps](Clumps.md)                                 |        | ✓      |                                                     |
+| [FerriteCore](FerriteCore.md)                       | ✓      | ✓      |                                                     |
+| [EntityCulling](EntityCulling.md)                   | ✓      |        |                                                     |
+| [AI Improvements](AI-Improvements.md)               |        | ✓      |                                                     |
+| [Smooth Chunk Save](Smooth-Chunk-Save.md)           |        | ✓      |                                                     |
+| [Get It Together, Drops!](Get-It-Together-Drops.md) |        | ✓      |                                                     |

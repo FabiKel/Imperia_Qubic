@@ -9,5 +9,13 @@
     <toc-element topic="Default-topic.md"/>
     <toc-element topic="Leistungsverbesserung.md">
         <toc-element topic="Embeddium.md"/>
+        <toc-element topic="Oculus.md"/>
+        <toc-element topic="RyoamicLights.md"/>
+        <toc-element topic="Clumps.md"/>
+        <toc-element topic="FerriteCore.md"/>
+        <toc-element topic="EntityCulling.md"/>
+        <toc-element topic="AI-Improvements.md"/>
+        <toc-element topic="Smooth-Chunk-Save.md"/>
+        <toc-element topic="Get-It-Together-Drops.md"/>
     </toc-element>
 </instance-profile>
